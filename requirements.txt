@@ -1,0 +1,11 @@
+# training
+torch
+transformers
+safetensors
+datasets
+numpy
+matplotlib
+
+# tests only (reference implementation)
+trl
+pytest

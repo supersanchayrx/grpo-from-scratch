@@ -1,0 +1,17 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Model weights, datasets and run outputs
+models/
+data/
+checkpoints/
+runs/
+wandb/
+
+# Local build notes
+context-docs/
